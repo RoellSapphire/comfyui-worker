@@ -36,3 +36,4 @@ RUN mkdir -p /comfyui/models/ultralytics/bbox && \
 
 # ── The worker will also scan /runpod-volume/models/ for your ──
 # ── checkpoints, LoRAs, embeddings from the network volume    ──
+
