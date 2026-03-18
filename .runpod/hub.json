@@ -1,0 +1,10 @@
+{
+  "title": "ComfyUI Worker",
+  "description": "ComfyUI with FaceDetailer and IP-Adapter",
+  "type": "serverless",
+  "category": "image",
+  "config": {
+    "runsOn": "GPU",
+    "containerDiskInGb": 30
+  }
+}
